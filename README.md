@@ -2,8 +2,6 @@
 
 A delightful web application that gives you random compliments with a beautiful spinning roulette wheel animation. Built with Next.js, Tailwind CSS, and Framer Motion.
 
-![Compliment Giver Demo](public/demo.gif)
-
 ## Features ⭐
 
 - Beautiful spinning roulette wheel with 8 different colors
@@ -32,7 +30,7 @@ A delightful web application that gives you random compliments with a beautiful 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/compliment-giver.git
+git clone https://github.com/Jango-ai/compliment-giver.git
 cd compliment-giver
 ```
 
